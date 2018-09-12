@@ -1,5 +1,15 @@
 ---
 title: 'Java 6 compatible frameworks stack'
+taxonomy:
+    category:
+        - Java
+        - Framework
+    tag:
+        - Spring
+        - Hibernate
+        - Legacy
+        - JDK6
+        - 'Java 6'
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true
